@@ -2,5 +2,9 @@
   {
     "ethereumNetwork": "xdai",
     "conditionId": 1
+  },
+  {
+    "ethereumNetwork": "bsc",
+    "conditionId": 1
   }
 ]
