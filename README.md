@@ -2,6 +2,8 @@
 
 [Global revolution since 8 Nov 2021](https://science.vporton.name/2021/11/10/a-single-math-studybook-not-published-global-revolution-started-8-nov-2021/) - winning is sure - pay to [this link](https://my.israelgives.org/en/join/GlobalRevolution)
 
+* [Absolute](https://science.vporton.name/2021/11/06/absolute-logic-logic-without-axioms/) (a mathematical term since this week)
+* [The error in MOST logic studybooks (not in ZFC)](https://science.vporton.name/2021/11/09/what-is-the-worlds-biggest-technical-security-issue/)
 * Ruster
 * blockchain
 * Python and [better than Python](https://good-tech-school.thinkific.com/courses/dforpython)
