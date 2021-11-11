@@ -5,6 +5,7 @@
 * [Absolute](https://science.vporton.name/2021/11/06/absolute-logic-logic-without-axioms/) (a mathematical term since this week)
 * [The error in MOST logic studybooks (not in ZFC)](https://science.vporton.name/2021/11/09/what-is-the-worlds-biggest-technical-security-issue/)
 * [I know 12 errors in the USA thermonuclear weapon control system](https://science.vporton.name/2021/11/11/i-know-12-errors-in-the-usa-thermonuclear-weapon-control-system/)
+* [Efficient Copy-on-Write](https://porton-victor.medium.com/efficient-copy-on-write-intro-d77a5ec3a8eb) - it exists!
 * Ruster
 * blockchain
 * Python and [better than Python](https://good-tech-school.thinkific.com/courses/dforpython)
