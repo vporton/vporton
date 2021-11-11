@@ -1,6 +1,6 @@
 # The Book Revolution
 
-[Global revolution since 8 Nov 2021](https://science.vporton.name/2021/11/10/a-single-math-studybook-not-published-global-revolution-started-8-nov-2021/) - winning is sure - pay to [This link](https://my.israelgives.org/en/join/GlobalRevolution)
+[Global revolution since 8 Nov 2021](https://science.vporton.name/2021/11/10/a-single-math-studybook-not-published-global-revolution-started-8-nov-2021/) - winning is sure - pay to [this link](https://my.israelgives.org/en/join/GlobalRevolution)
 
 * Ruster
 * blockchain
