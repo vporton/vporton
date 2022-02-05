@@ -19,6 +19,14 @@ If _one_ graph is forged, it can bring down all science - because all science is
 
 ![GodfreyKneller-IsaacNewton-1689](https://user-images.githubusercontent.com/2900574/141319631-29d516e9-4c21-48b5-8cde-9ccd431223b2.jpg)
 
+## Conflict
+
+An electronic lamp broke and became a powerful radiation emitter. (I knew this later when I: 1. saw it sparkles, 2. noticed that the noise in my head followed high-frequency interference pattern dependenly on the positition of my body in the room.)
+
+Under influence of the radiation emitter I behaved like a drunkard, said a not suitable word to a woman, and as a result conflicted with a community.
+
+Communities have the disadvantage that they don't have a definiition of insanity and don't accept declined person back. Or is it possible to get me back?
+
 ## Smartest person in history
 
 As far as I know (Correct me if I’m wrong.), nobody else discovered more than one fundamental branch of mathematics (Von Neumann discovered several, but they are not quite fundamental), I did this about 4-5 times (dependently on how to count). So in a sense, I am the smartest human in History (except Jesus).
