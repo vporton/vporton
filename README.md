@@ -21,7 +21,7 @@ If _one_ graph is forged, it can bring down all science - because all science is
 
 ## Smartest person in history
 
-As far as I know (Correct me if I’m wrong.), nobody else discovered more than one fundamental branch of mathematics (Von Neumann discovered several, but they are not quite fundamental), I did this about 3 times. So in a sense, I am the smartest human in History (except Jesus).
+As far as I know (Correct me if I’m wrong.), nobody else discovered more than one fundamental branch of mathematics (Von Neumann discovered several, but they are not quite fundamental), I did this about 4-5 times (dependently on how to count). So in a sense, I am the smartest human in History (except Jesus).
 
 I made the following mathematical discoveries (https://math.portonvictor.org):
 
