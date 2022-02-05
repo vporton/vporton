@@ -23,9 +23,11 @@ If _one_ graph is forged, it can bring down all science - because all science is
 
 An electronic lamp broke and became a powerful radiation emitter. (I knew this later when I: 1. saw it sparkles, 2. noticed that the noise in my head followed high-frequency interference pattern dependenly on the positition of my body in the room.)
 
-Under influence of the radiation emitter I behaved like a drunkard, said a not suitable word to a woman, and as a result conflicted with a community.
+Under influence of the radiation emitter I behaved like a drunkard, said a not suitable word to a woman, and as a result conflicted with a community behaving not reasonably (sending many emails).
 
-Communities have the disadvantage that they don't have a definiition of insanity and don't accept declined person back. Or is it possible to get me back?
+Because people have associative thinking that associates goods somebody produces with his person, the community losing me lost ability to produce goods. Isn't this the reaason why there is not Ethereum 2.0 yet? My side harm is just a little reduced food quality, the community lost its creative power.
+
+Communities have the disadvantage that they don't have a definiition of insanity and don't accept declined person back. Or is it possible to get me back? If there is a mean to restore broken community, let me know, I am interested.
 
 ## Smartest person in history
 
