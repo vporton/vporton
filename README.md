@@ -46,3 +46,7 @@ I made the following mathematical discoveries (https://math.portonvictor.org):
 As far as I know, nobody else in History discovered more than one fundamental branch of mathematics. The very fundamental big branches of mathematics I discovered are emphasized above with bold font. (I didn’t also emphasize “filtrators” because this branch doesn’t seem very big.)
 
 By the way, the three ones I discovered are probably the last ones (so, likely the most difficult to discover).
+
+## Despicable
+
+I am descpicable (to explain, I will write a scientific article about despising) and this destroys the civilization: People associate good things with me and me with bad things, so your associative thought causes to associate good with bad and with no work. This is enough to kill the civilization. Respect me. (I mean send money.)
