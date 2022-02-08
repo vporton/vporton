@@ -1,3 +1,5 @@
+Most people are communists for themselves, liberals for others. I am liberal for myself, communist for others.
+
 # The Book Revolution
 
 [Global revolution since 8 Nov 2021](https://science.vporton.name/2021/11/10/a-single-math-studybook-not-published-global-revolution-started-8-nov-2021/) after me having finding _forged global data graphs_ (strategy of dropping the ring of hate into the sea) - winning is sure - pay to [this link](https://my.israelgives.org/en/join/GlobalRevolution)
