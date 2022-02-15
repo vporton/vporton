@@ -51,4 +51,4 @@ By the way, the three ones I discovered are probably the last ones (so, likely t
 
 ## Despicable
 
-I am [descpicable](https://science.vporton.name/2022/02/06/despising-the-scientific-theory-of/) (see my scientific article about despising) and this destroys the civilization: People associate good things with me and me with bad things, so your associative thought causes to associate good with bad and with no work. This is enough to kill the civilization. Respect me. (I mean send money.)
+I am [descpicable](https://science.vporton.name/2022/02/06/despising-the-scientific-theory-of/) (see my scientific article about despising) and this destroys the civilization: People associate good things with me and me with bad things, so your associative thought causes to associate good with bad and with no work. This is enough to kill the civilization. Respect me. (I mean **[send money](https://giveth.io/project/help-my-open-source-software-and-science-development)**.)
