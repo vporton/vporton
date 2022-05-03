@@ -25,7 +25,7 @@ An electronic lamp broke and became a powerful radiation emitter. (I knew this l
 
 Under influence of the radiation emitter I behaved like a drunkard, said a not suitable word to a woman, and as a result conflicted with a community behaving not reasonably (sending many emails).
 
-Because people have associative thinking that associates goods somebody produces with his person, the community losing me lost ability to produce goods. Isn't this the reaason why there is not Ethereum 2.0 yet? My side harm is just a little reduced food quality, the community lost its creative power.
+Because people have associative thinking that associates goods somebody produces with his person, the community losing me lost ability to produce goods. Isn't this the reason why there is not Ethereum 2.0 yet? My side harm is just a little reduced food quality, the community lost its creative power.
 
 Communities have the disadvantage that they don't have a definiition of insanity and don't accept declined person back. Or is it possible to get me back? If there is a mean to restore broken community, let me know, I am interested.
 
