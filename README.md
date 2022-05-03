@@ -9,7 +9,6 @@ If _one_ graph is forged, it can bring down all science - because all science is
 * [Absolute](https://science.vporton.name/2021/11/06/absolute-logic-logic-without-axioms/) (a mathematical term since this week)
 * [I know 12 errors in the USA thermonuclear weapon control system](https://science.vporton.name/2021/11/11/i-know-12-errors-in-the-usa-thermonuclear-weapon-control-system/)
 * [Algebraic theory of general topology + discontinuous analysis](https://science.vporton.name/pdf/web/viewer.html?file=/wp-content/uploads/sites/4/2021/11/volume-1-1.pdf)
-* [Efficient Copy-on-Write](https://porton-victor.medium.com/efficient-copy-on-write-intro-d77a5ec3a8eb) - it exists!
 * Ruster
 * blockchain
 * Python and [better than Python](https://good-tech-school.thinkific.com/courses/dforpython)
