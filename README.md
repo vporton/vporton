@@ -2,7 +2,7 @@ Most people are communists for themselves, liberals for others. I am liberal for
 
 * [World Science DAO](https://science-dao.vporton.name)
 * [I know 12 errors in the USA thermonuclear weapon control system](https://science.vporton.name/2021/11/11/i-know-12-errors-in-the-usa-thermonuclear-weapon-control-system/)
-* [Algebraic theory of general topology + discontinuous analysis](https://science.vporton.name/pdf/web/viewer.html?file=/wp-content/uploads/sites/4/2021/11/volume-1-1.pdf)
+* [Algebraic theory of general topology + discontinuous analysis](https://science.vporton.name/pdf/web/viewer.html?file=/wp-content/uploads/sites/4/2021/11/volume-1-1.pdf) - I discovered ordered semigroup actions
 * Ruster
 * blockchain
 * Python and [better than Python](https://good-tech-school.thinkific.com/courses/dforpython)
