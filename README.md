@@ -5,7 +5,7 @@ Most people are communists for themselves, liberals for others. I am liberal for
 * [Algebraic theory of general topology + discontinuous analysis](https://science.vporton.name/pdf/web/viewer.html?file=/wp-content/uploads/sites/4/2021/11/volume-1-1.pdf) - I discovered ordered semigroup actions
 * Ruster
 * blockchain
-* Python and [better than Python](https://good-tech-school.thinkific.com/courses/dforpython)
+* Python and [better than Python](https://teachsector.com/dforpython/)
 * [Science](https://science.vporton.name)
 * [Not Science based on Not Logic _algorithm_](https://science.vporton.name/2021/11/10/a-single-math-studybook-not-published-global-revolution-started-8-nov-2021/) - the project of the Galaxy starting on the Earth - join the **main** Israel's project
 
