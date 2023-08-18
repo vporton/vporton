@@ -1,5 +1,8 @@
 Most people are communists for themselves, liberals for others. I am liberal for myself, communist for others.
 
+**New!** Check for errors [my P=NP proof](https://drive.google.com/file/d/16Ws_eZF8f-rn1mFvkIT-UdMdvTwOu4vO/view?usp=drive_link)
+(without a practically efficient NP-complete algorithm).
+
 * [World Science DAO](https://science-dao.vporton.name)
 * [I know 12 errors in the USA thermonuclear weapon control system](https://science.vporton.name/2021/11/11/i-know-12-errors-in-the-usa-thermonuclear-weapon-control-system/)
 * [Algebraic theory of general topology + discontinuous analysis](https://science.vporton.name/pdf/web/viewer.html?file=/wp-content/uploads/sites/4/2021/11/volume-1-1.pdf) - I discovered ordered semigroup actions
