@@ -1,6 +1,6 @@
 Most people are communists for themselves, liberals for others. I am liberal for myself, communist for others.
 
-**[Sponsor me, please](https://github.com/sponsors/vporton)**
+<iframe src="https://github.com/sponsors/vporton/button" title="Sponsor vporton" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 * [World Science DAO](https://science-dao.vporton.name)
 * [I know 12 errors in the USA thermonuclear weapon control system](https://science.vporton.name/2021/11/11/i-know-12-errors-in-the-usa-thermonuclear-weapon-control-system/)
