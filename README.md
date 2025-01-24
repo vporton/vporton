@@ -1,5 +1,7 @@
 Most people are communists for themselves, liberals for others. I am liberal for myself, communist for others.
 
+**[Sponsor me, please](https://github.com/sponsors/vporton)**
+
 **New!** Check for errors [my P=NP proof](https://drive.google.com/file/d/16Ws_eZF8f-rn1mFvkIT-UdMdvTwOu4vO/view?usp=drive_link)
 (without a practically efficient NP-complete algorithm).
 
