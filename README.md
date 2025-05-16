@@ -3,6 +3,7 @@ Most people are communists for themselves, liberals for others. I am liberal for
 **[Sponsor me, please](https://github.com/sponsors/vporton)**
 
 * [World Science DAO](https://science-dao.vporton.name)
+* [IC Pack - the apps package manager for ICP blockchain](https://docs.package-manager.com/)
 * [I know 12 errors in the USA thermonuclear weapon control system](https://science.vporton.name/2021/11/11/i-know-12-errors-in-the-usa-thermonuclear-weapon-control-system/)
 * [Algebraic theory of general topology + discontinuous analysis](https://science.vporton.name/pdf/web/viewer.html?file=/wp-content/uploads/sites/4/2021/11/volume-1-1.pdf) - I discovered ordered semigroup actions
 * Ruster
