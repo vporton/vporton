@@ -51,6 +51,19 @@
         },
         "licenses": ["spdx:MIT"],
         "tags": ["proxy server", "ICP blockchain HTTPS outcalls", "API"]
+    }, {
+        "guid": "xml-boiler",
+        "name": "XML Boiler",
+        "description": "A software for advanced processing of XML of mixed namespaces, directed by RDF resources, accordingly my own open standard. Also aims to produce the future replacement of HTML and LaTeX by a scriptable modular and beautiful XML format, by organizing decentralized collaboration of XML tag authors.",
+        "webpageUrl": {
+            "url": "https://github.com/vporton/xml-boiler"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/vporton/xml-boiler",
+            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:AGPL-3.0"],
+        "tags": ["XML", "RDF", "XML namespaces", "XML conversion", "XML validation"]
     }],
     "funding": {
         "channels": [
