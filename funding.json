@@ -23,8 +23,21 @@
             "url": "https://github.com/vporton/socialism",
             "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
         },
-        "licenses": ["spdx:GPL-3.0-or-later	"],
+        "licenses": ["spdx:GPL-3.0-or-later"],
         "tags": ["meritocracy", "open source", "FOSS", "FLOSS", "science financing", "free software financing", "science grants", "scientific grants", "software grants"]
+    }, {
+        "guid": "ATGT",
+        "name": "Algebraic Theory of General Topology",
+        "description": "A book with a generalization of general topology using ordered semicategory actions. All math heuristics show, that it is not less important than group theory, while group theory (discovered in 19th century) provides likely >1/2 of modern economy. The book(s) record my math results but is also structured to be used as a ready to study textbook. Discoveries also contain discontinuous analysis, that already has the power for engineers, physiscists, etc. to much simplify their computations.",
+        "webpageUrl": {
+            "url": "https://math.portonvictor.org/algebraic-general-topology-and-math-synthesis/"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/vporton/agt-combined",
+            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:GPL-3.0-or-later"],
+        "tags": ["general topology", "ordered semigroup actions", "ordered semicategory actions", "discontinuous analysis"]
     }],
     "funding": {
         "channels": [
@@ -61,6 +74,16 @@
                 "status": "active",
                 "name": "AI Internet-Socialism SEO",
                 "description": "Optimizing https://science-dao.org",
+                "amount": 1000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["wise"]
+            },
+            {
+                "guid": "atgt-seo",
+                "status": "active",
+                "name": "Algebraic Theory of General Topology SEO",
+                "description": "Optimizing https://math.portonvictor.org",
                 "amount": 1000,
                 "currency": "USD",
                 "frequency": "monthly",
