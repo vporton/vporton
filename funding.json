@@ -24,7 +24,7 @@
             "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:GPL-3.0-or-later"],
-        "tags": ["meritocracy", "open source", "FOSS", "FLOSS", "science financing", "free software financing", "science grants", "scientific grants", "software grants"]
+        "tags": ["meritocracy", "open-source", "foss", "floss", "science-financing", "free-software-financing", "science-grants", "scientific-grants", "software-grants", "development-grants"]
     }, {
         "guid": "ATGT",
         "name": "Algebraic Theory of General Topology",
@@ -37,7 +37,7 @@
             "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:GPL-3.0-or-later"],
-        "tags": ["general topology", "ordered semigroup actions", "ordered semicategory actions", "discontinuous analysis"]
+        "tags": ["general-topology", "ordered-semigroup-actions", "ordered-semicategory-actions", "discontinuous-analysis"]
     }, {
         "guid": "join-proxy",
         "name": "Join Proxy",
@@ -50,7 +50,7 @@
             "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:MIT"],
-        "tags": ["proxy server", "ICP blockchain HTTPS outcalls", "API"]
+        "tags": ["proxy-server", "icp-blockchain-https-outcalls", "api"]
     }, {
         "guid": "xml-boiler",
         "name": "XML Boiler",
@@ -63,7 +63,7 @@
             "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:AGPL-3.0"],
-        "tags": ["XML", "RDF", "XML namespaces", "XML conversion", "XML validation"]
+        "tags": ["xml", "rdf", "xml-namespaces", "xml-conversion", "xml-validation"]
     }],
     "funding": {
         "channels": [
