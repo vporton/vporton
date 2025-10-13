@@ -55,6 +55,26 @@
                 "currency": "USD",
                 "frequency": "monthly",
                 "channels": ["wise"]
+            },
+            {
+                "guid": "socialism-seo",
+                "status": "active",
+                "name": "AI Internet-Socialism SEO",
+                "description": "Optimizing https://science-dao.org",
+                "amount": 1000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["wise"]
+            },
+            {
+                "guid": "socialism-fly.io",
+                "status": "active",
+                "name": "AI Internet-Socialism hosting",
+                "description": "Virtual machines for AI Internet-Socialism",
+                "amount": 70,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["wise"]
             }
         ],
         "history": [
