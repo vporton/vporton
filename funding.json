@@ -26,7 +26,7 @@
         "licenses": ["spdx:GPL-3.0-or-later"],
         "tags": ["meritocracy", "open-source", "foss", "floss", "science-financing", "free-software-financing", "science-grants", "scientific-grants", "software-grants", "development-grants"]
     }, {
-        "guid": "ATGT",
+        "guid": "atgt",
         "name": "Algebraic Theory of General Topology",
         "description": "A book with a generalization of general topology using ordered semicategory actions. All math heuristics show, that it is not less important than group theory, while group theory (discovered in 19th century) provides likely >1/2 of modern economy. The book(s) record my math results but is also structured to be used as a ready to study textbook. Discoveries also contain discontinuous analysis, that already has the power for engineers, physicists, etc. to much simplify their computations.",
         "webpageUrl": {
