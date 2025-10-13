@@ -1,0 +1,63 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "owner",
+        "name": "Victor Porton",
+        "email": "porton.victor@gmail.com",
+        "phone": "+972-545229306",
+        "description": "I am a mathematician and a FLOSS developer, with special interest in financing charity and science projects, foundational libraries, and advanced XML processing, as well as author's new methods in general topology.",
+        "webpageUrl": {
+            "url": "https://github.com/vporton",
+            "wellKnown": ""
+        }
+    },
+    "projects": [{
+        "guid": "ai-internet-socialism",
+        "name": "AI Internet-Socialism",
+        "description": "My app asks AI, what portion of the global GDP a registered user is worth (as a scientist and FLOSS developer) and gives him/her the proportional portion of donated funds. The AI decides the worth of the user by Web search related to his/her linked accounts. If a user creates several duplicate accounts, they are automatically merged. The app is protected from intruders by several means. The current version is Node.js-based and uses a custodial wallet. I am going to rewrite it as a fully on-chain ICP blockchain app to have a non-custodial wallet. The main intentions of the app is to solve the scientific publication crisis (\"scientific coveries\" - when something having been discoveried by a poor scientist remove the topic from publicity), that hinders development of science and world economy at least by several times.",
+        "webpageUrl": {
+            "url": "https://science-dao.org/ai-internet-socialism/"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/vporton/socialism",
+            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:GPL-3.0-or-later	"],
+        "tags": ["meritocracy", "open source", "FOSS", "FLOSS", "science financing", "free software financing", "science grants", "scientific grants", "software grants"]
+    }],
+    "funding": {
+        "channels": [
+            {
+                "guid": "wise",
+                "type": "bank",
+                "address": "",
+                "description": "Will accept any kinds of Wise transfers (bank, credit card, etc.): https://wise.com/pay/me/victorp949 - Before paying, settle with me switching from my personal to a charity account, what will allow us to double the donation account"
+            }
+        ],
+        "plans": [
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "My personal salary.",
+                "amount": 400,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["wise"]
+            },
+            {
+                "guid": "ai-codeveloper",
+                "status": "active",
+                "name": "AI co-developer",
+                "description": "This will cover the cost of Cursor or Codex AI co-developer.",
+                "amount": 80,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["wise"]
+            }
+        ],
+        "history": [
+        ]
+    }
+}
