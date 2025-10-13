@@ -6,7 +6,7 @@
         "name": "Victor Porton",
         "email": "porton.victor@gmail.com",
         "phone": "+972-545229306",
-        "description": "I am a mathematician and a FLOSS developer, with special interest in financing charity and science projects, foundational libraries, and advanced XML processing, as well as author's new methods in general topology.",
+        "description": "I am a mathematician and a FLOSS developer, with special interest in financing charity and science projects, foundational libraries, and advanced XML processing, as well as the author's new methods in general topology.",
         "webpageUrl": {
             "url": "https://github.com/vporton",
             "wellKnown": ""
@@ -15,7 +15,7 @@
     "projects": [{
         "guid": "ai-internet-socialism",
         "name": "AI Internet-Socialism",
-        "description": "My app asks AI, what portion of the global GDP a registered user is worth (as a scientist and FLOSS developer) and gives him/her the proportional portion of donated funds. The AI decides the worth of the user by Web search related to his/her linked accounts. If a user creates several duplicate accounts, they are automatically merged. The app is protected from intruders by several means. The current version is Node.js-based and uses a custodial wallet. I am going to rewrite it as a fully on-chain ICP blockchain app to have a non-custodial wallet. The main intentions of the app is to solve the scientific publication crisis (\"scientific coveries\" - when something having been discoveried by a poor scientist remove the topic from publicity), that hinders development of science and world economy at least by several times.",
+        "description": "My app asks AI, what portion of the global GDP a registered user is worth (as a scientist and FLOSS developer) and gives him/her the proportional portion of donated funds. The AI decides the worth of the user by Web search related to his/her linked accounts. If a user creates several duplicate accounts, they are automatically merged. The app is protected from intruders by several means. The current version is Node.js-based and uses a custodial wallet. I am going to rewrite it as a fully on-chain ICP blockchain app to have a non-custodial wallet. The main intentions of the app is to solve the scientific publication crisis (\"scientific coveries\" - when something having been discovered by a poor scientist remove the topic from publicity), that hinders development of science and world economy at least by several times.",
         "webpageUrl": {
             "url": "https://science-dao.org/ai-internet-socialism/"
         },
@@ -28,7 +28,7 @@
     }, {
         "guid": "ATGT",
         "name": "Algebraic Theory of General Topology",
-        "description": "A book with a generalization of general topology using ordered semicategory actions. All math heuristics show, that it is not less important than group theory, while group theory (discovered in 19th century) provides likely >1/2 of modern economy. The book(s) record my math results but is also structured to be used as a ready to study textbook. Discoveries also contain discontinuous analysis, that already has the power for engineers, physiscists, etc. to much simplify their computations.",
+        "description": "A book with a generalization of general topology using ordered semicategory actions. All math heuristics show, that it is not less important than group theory, while group theory (discovered in 19th century) provides likely >1/2 of modern economy. The book(s) record my math results but is also structured to be used as a ready to study textbook. Discoveries also contain discontinuous analysis, that already has the power for engineers, physicists, etc. to much simplify their computations.",
         "webpageUrl": {
             "url": "https://math.portonvictor.org/algebraic-general-topology-and-math-synthesis/"
         },
@@ -41,7 +41,7 @@
     }, {
         "guid": "join-proxy",
         "name": "Join Proxy",
-        "description": "A proxy server that joins together several requests from ICP blockchain (or other source), with high security (hidding API keys, checking the source of the requests to be from a given user), for such tasks as OpenAI queries. It will be used by AI Internet-Socialism.",
+        "description": "A proxy server that joins together several requests from ICP blockchain (or other source), with high security (hiding API keys, checking the source of the requests to be from a given user, avoiding request replaying), for such tasks as OpenAI queries. It will be used by AI Internet-Socialism.",
         "webpageUrl": {
             "url": "https://github.com/vporton/join-proxy"
         },
@@ -71,7 +71,7 @@
                 "guid": "wise",
                 "type": "bank",
                 "address": "",
-                "description": "Will accept any kinds of Wise transfers (bank, credit card, etc.): https://wise.com/pay/me/victorp949 - Before paying, settle with me switching from my personal to a charity account, what will allow us to double the donation account"
+                "description": "I will accept any kinds of Wise transfers (bank, credit card, etc.): https://wise.com/pay/me/victorp949 - Before paying, settle with me switching from my personal to a charity account, what will allow me to use Zeffy to double the donation account"
             }
         ],
         "plans": [
