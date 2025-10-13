@@ -38,6 +38,19 @@
         },
         "licenses": ["spdx:GPL-3.0-or-later"],
         "tags": ["general topology", "ordered semigroup actions", "ordered semicategory actions", "discontinuous analysis"]
+    }, {
+        "guid": "join-proxy",
+        "name": "Join Proxy",
+        "description": "A proxy server that joins together several requests from ICP blockchain (or other source), with high security (hidding API keys, checking the source of the requests to be from a given user), for such tasks as OpenAI queries. It will be used by AI Internet-Socialism.",
+        "webpageUrl": {
+            "url": "https://github.com/vporton/join-proxy"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/vporton/join-proxy",
+            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:MIT"],
+        "tags": ["proxy server", "ICP blockchain HTTPS outcalls", "API"]
     }],
     "funding": {
         "channels": [
@@ -115,6 +128,16 @@
                 "name": "AI Internet-Socialism salaries",
                 "description": "Actual salaries for users",
                 "amount": 500000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["wise"]
+            },
+            {
+                "guid": "join-proxy-hosting",
+                "status": "active",
+                "name": "Join Proxy hosting",
+                "description": "A fly.io hosting",
+                "amount": 90.01,
                 "currency": "USD",
                 "frequency": "monthly",
                 "channels": ["wise"]
