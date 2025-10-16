@@ -20,7 +20,8 @@
             "url": "https://science-dao.org/ai-internet-socialism/"
         },
         "repositoryUrl": {
-            "url": "https://github.com/vporton/socialism"
+            "url": "https://github.com/vporton/socialism",
+            "wellKnown": "https://science-dao.org/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:GPL-3.0-or-later"],
         "tags": ["meritocracy", "open-source", "foss", "floss", "science-financing", "free-software-financing", "science-grants", "scientific-grants", "software-grants", "development-grants"]
@@ -32,7 +33,8 @@
             "url": "https://math.portonvictor.org/algebraic-general-topology-and-math-synthesis/"
         },
         "repositoryUrl": {
-            "url": "https://github.com/vporton/agt-combined"
+            "url": "https://github.com/vporton/agt-combined",
+            "wellKnown": "https://math.portonvictor.org/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:GPL-3.0-or-later"],
         "tags": ["general-topology", "ordered-semigroup-actions", "ordered-semicategory-actions", "discontinuous-analysis"]
