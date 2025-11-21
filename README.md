@@ -23,9 +23,9 @@ Because people have associative thinking that associates goods somebody produces
 
 Communities have the disadvantage that they don't have a definiition of insanity and don't accept declined person back. Or is it possible to get me back? If there is a mean to restore broken community, let me know, I am interested.
 
-## Smartest person in history
+## The biggest number of certain kind of discoveries
 
-As far as I know (Correct me if I’m wrong.), nobody else discovered more than one fundamental branch of mathematics (Von Neumann discovered several, but they are not quite fundamental), I did this about 4-5 times (dependently on how to count). So in a sense, I am the smartest human in History (except Jesus).
+As far as I know (Correct me if I’m wrong.), nobody else discovered more than one fundamental branch of mathematics (Von Neumann discovered several, but they are not quite fundamental), I did this about 4-5 times (dependently on how to count). It is kinda a world record.
 
 I made the following mathematical discoveries (https://math.portonvictor.org):
 
